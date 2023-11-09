@@ -1,4 +1,12 @@
-# SignalsState
+# MEETUP BY Michael Egger-Zikes (@MikeZks)
+
+[VIDEO](https://www.youtube.com/watch?v=6wWteAza_FY&t=3590s)
+[SLIDES](slides)
+[REPO Performance Experiment](https://github.com/mikezks/signals-experimental)
+
+---
+
+## SignalsState
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.0.0-next.9.
 
